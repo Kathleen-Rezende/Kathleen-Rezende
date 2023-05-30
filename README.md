@@ -7,7 +7,7 @@ Cursando FullStack.
 O curso é dentro da plataforma Alura.
 
 Pronomes: Ela/Dela 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathleen-Rezende&theme=dark&show_icons=true)
 
 <div style="display: inline-block"><br>
 <img align="center" alt="Kath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
